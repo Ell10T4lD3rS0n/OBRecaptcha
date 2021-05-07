@@ -36,7 +36,7 @@ Entre l'URL anchor ► https://www.google.com/recaptcha/api2/anchor?ar=1&k=xxxxx
 4. Puis insérer les données des varibles suivantes : le CHR, le VH et le BG (vous les trouverez dans la partie client de la requête reload)
 ```
 CHR [xx,xx,xx] : [xx,xx,xx]                 # Le CHR est repérable car il a des crochets et contient des nombres à l'intérieur
-VH : xxxxxxxx                               # Le VH se trouve après une étoile (*) et il est composé entierement de chiffres et parfois par un - devant
+VH : xxxxxxxx                               # Le VH se trouve après une étoile (*) et il est composé entierement de chiffres et parfois par un tiret (-) devant
 BG !x* : !xxxxxxxxxxxxxxxxxxx*              # Le BG commence par un point exclamation (!) et s'arrête jusqu'à une étoile (* )
 ```
 
