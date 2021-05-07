@@ -1,4 +1,4 @@
-# OBRecaptcha
+# OBRecaptcha - Dev with :heart:
 
 <p align="center">
   <img src="https://i.imgur.com/2ZVQP1y.png" width="350" title="logo">
@@ -6,18 +6,18 @@
 
 ## :clipboard: Sommaire :
 
-- [:information_source: Description](#description)
-- [:fr: Tutoriel](#tutoriel)
+- [:information_source: | Description](#description)
+- [:fr: | Tutoriel](#tutoriel)
 
 
 <div id='description'/> 
 
-## :information_source: Description :
+## :information_source: | Description :
 Script Python qui permet de savoir si le recaptcha v3 d'un site est bypassable et si bypassable il génère un txt avec du loliscript idéal pour Openbullet v1
 
 <div id='tutoriel'/> 
 
-## :fr: Tutoriel :
+## :fr: | Tutoriel :
 1. Installation les modules prérequis :
 ```
 pip install -r requirements.txt
