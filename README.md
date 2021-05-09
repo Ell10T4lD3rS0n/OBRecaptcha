@@ -42,6 +42,15 @@ BG !x* : !xxxxxxxxxxxxxxxxxxx*              # Le BG commence par un point exclam
 
 5. Si le reCAPTCHA n'est pas bypassable il vous retournera "Bypass Recaptcha Impossible" si bypassable il vous retournera "Bypass Recaptcha Possible"
 
-6. Pour finir un .txt se créera depuis l'emplacement ou vous avez exécutez le script se nommant "loliscript.txt" contenant le loliscript pour Openbullet 1
+6. Pour finir un .txt se créera depuis l'emplacement où vous avez exécuté le script se nommant "loliscript.txt" contenant le loliscript pour Openbullet 1
 
 7. ENJOY :tada:
+
+## :speech_balloon: | Me contacter :
+
+<a href="https://t.me/Ell10T_4lD3rS0n">
+<img src="https://i.imgur.com/R8MjNmT.png"  alt="Telegram" width="100" height="100"/>
+</a>
+<a href="https://twitter.com/Ell10T_4lD3rS0n">
+<img src="https://i.imgur.com/zIKc8id.png"  alt="Twitter" width="100" height="100"/>
+</a>
