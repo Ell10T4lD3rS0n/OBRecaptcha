@@ -8,6 +8,7 @@
 
 - [:information_source: | Description](#description)
 - [:fr: | Tutoriel](#tutoriel)
+- [:speech_balloon: | Me contacter](#contact)
 
 
 <div id='description'/> 
@@ -45,6 +46,8 @@ BG !x* : !xxxxxxxxxxxxxxxxxxx*              # Le BG commence par un point exclam
 6. Pour finir un .txt se créera depuis l'emplacement où vous avez exécuté le script se nommant "loliscript.txt" contenant le loliscript pour Openbullet 1
 
 7. ENJOY :tada:
+
+<div id='contact'/> 
 
 ## :speech_balloon: | Me contacter :
 
