@@ -51,7 +51,7 @@ BG !x* : !xxxxxxxxxxxxxxxxxxx*              # Le BG commence par un point exclam
 
 ## :speech_balloon: | Me contacter :
 
-<a href="https://t.me/Ell10T_4lD3rS0n">
+<a href="https://t.me/ElliotAldersonFR">
 <img src="https://i.imgur.com/R8MjNmT.png"  alt="Telegram" width="100" height="100"/>
 </a>
 <a href="https://twitter.com/Ell10T_4lD3rS0n">
